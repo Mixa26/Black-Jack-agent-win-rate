@@ -14,4 +14,4 @@ The agent for the house works with the following conditions.
 If the house's sum is less than our player's sum, the house
 will HIT, else it will stand.
 
-The player agent success percentage is about 3.52808 measured at 1,000,000 runs.
+The player agent success percentage is about 0,352808 or ~35% measured at 1,000,000 runs.
